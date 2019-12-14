@@ -1,6 +1,6 @@
 <strong>Урок 1</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_01.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_01.pdf">Презентация к уроку 1</a>
 
 <ul>
  	<li><a href="https://www.youtube.com/watch?v=ROIb6kInHD4">Калькулятор</a></li>
@@ -11,7 +11,7 @@
 
 <strong>Урок 2</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_02.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_02.pdf">Презентация к уроку 2</a>
 
 <ul>
  	<li><a href="https://youtu.be/ouZBpsgn2bE?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=27">Строки и операции над ними</a></li>
@@ -21,7 +21,7 @@
 
 <strong>Урок 3</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_03.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_03.pdf">Презентация к уроку 3</a>
 
 <ul>
  	<li><a href="https://youtu.be/9K1q19l7EUM?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=36">Модули</a></li>
@@ -32,7 +32,7 @@
 
 <strong>Урок 4</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_04.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_04.pdf">Презентация к уроку 4</a>
 
 <ul>
  	<li><a href="https://youtu.be/7ue_Vz17i5g?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=16">Строковые методы</a></li>
@@ -42,7 +42,7 @@
 
 <strong>Урок 5</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_05.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_05.pdf">Презентация к уроку 5</a>
 
 <ul>
  	<li><a href="https://youtu.be/jEPKPzntN5Q?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=60">Списки и операции над ними</a></li>
@@ -55,7 +55,7 @@
 
 <strong>Урок 6</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_06.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_06.pdf">Презентация к уроку 6</a>
 
 <ul>
  	<li><a href="https://youtu.be/XPbpktpYgeM?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=61">Цикл for</a></li>
@@ -66,7 +66,7 @@
 
 <strong>Урок 7</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_07.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_07.pdf">Презентация к уроку 7</a>
 
 <ul>
  	<li><a href="https://youtu.be/nXggilOWarg?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=37">Множества</a></li>
@@ -76,11 +76,11 @@
 
 <strong>Урок 8</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_08.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_08.pdf">Презентация к уроку 8</a>
 
-Блокнот по обработке ошибок: https://github.com/dm-fedorov/python_basic/blob/master/about_errors.ipynb
+<a href="https://github.com/dm-fedorov/python_basic/blob/master/about_errors.ipynb">Блокнот по обработке ошибок</a>
 
-Блокнот по файлам: https://github.com/dm-fedorov/python_basic/blob/master/about_files.ipynb
+<a href="https://github.com/dm-fedorov/python_basic/blob/master/about_files.ipynb">Блокнот по файлам</a>
 
 <ul>
  	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=62">Обработка ошибок</a></li>   
@@ -90,9 +90,9 @@
 
 <strong>Урок 9</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_09.pdf
 
-Блокнот по ООП: https://github.com/dm-fedorov/python_basic/blob/master/about_oop.ipynb
+
+<a href="https://github.com/dm-fedorov/python_basic/blob/master/about_oop.ipynb">Блокнот по ООП</a>
 
 <ul>
  	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=45">Классы и объекты</a></li>
@@ -104,7 +104,7 @@
 
 <strong>Урок 10</strong>
 
-Презентация: https://dfedorov.spb.ru/python3/python_marafon_10.pdf
+<a href="https://dfedorov.spb.ru/python3/python_marafon_10.pdf">Презентация к уроку 10</a>
 
 <ul>
  	<li> <a href="https://youtu.be/oFE1IAzAOtM?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=26">Разработка приложения с помощью модуля tkinter</a></li>
