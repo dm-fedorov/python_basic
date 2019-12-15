@@ -79,15 +79,15 @@
 <a href="https://dfedorov.spb.ru/python3/python_marafon_08.pdf">Презентация к уроку 8</a>
 
 <ul>
- 	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=62">Обработка ошибок</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_errors.ipynb">Блокнот по обработке ошибок</a></li>   
- 	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=969">Работа с файлами</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_files.ipynb">Блокнот по файлам</a></li>
+ 	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=62">Обработка ошибок</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_errors.ipynb">Notebook по обработке ошибок</a></li>   
+ 	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=969">Работа с файлами</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_files.ipynb">Notebook по файлам</a></li>
  	<li><a href="https://youtu.be/xTej-yV2BpQ?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=1995">Unicode</a></li>
 </ul>
 
 <strong>Урок 9</strong>
 
 <ul>
- 	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=45">Классы и объекты</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_oop.ipynb">Блокнот по ООП</a></li>
+ 	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=45">Классы и объекты</a> и <a href="https://github.com/dm-fedorov/python_basic/blob/master/about_oop.ipynb">Notebook по ООП</a></li>
  	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=1311">Специальный метод __add__</a></li>
  	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=1681">Атрибуты класса</a></li>
  	<li><a href="https://youtu.be/hNfvscEnDtw?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=1826">Наследование</a></li>
