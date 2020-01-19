@@ -9,6 +9,8 @@
  	<li><a href="https://youtu.be/ROIb6kInHD4?t=1027">Создание собственных функций</a></li>
 </ul>
 
+[Немного про PEP 8](https://github.com/tkhirianov/lections_2019/blob/master/semestr_1/lec_12/shortly_about_PEP8_with_examples.pdf)
+
 <strong>Урок 2</strong>
 
 <a href="https://dfedorov.spb.ru/python3/python_marafon_02.pdf">Презентация к уроку 2</a>
