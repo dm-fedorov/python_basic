@@ -108,6 +108,13 @@
 
 1. Федоров, Д. Ю. Программирование на языке высокого уровня Python : учеб. пособие для прикладного бакалавриата / Д. Ю. Федоров.  — 2-е изд., перераб. и доп. — М. : Издательство Юрайт, 2019. — 161 с. — (Серия : Бакалавр. Прикладной курс). [ссылка](https://biblio-online.ru/book/programmirovanie-na-yazyke-vysokogo-urovnya-python-437489?ref_from=94433)
 
+***
 
+PS. Если во время просмотра файлов *.ipynb Вы получаете сообщение "Sorry, something went wrong. Reload?", то попробуйте открыть блокнот, который Вам нужен, используя nbviewer онлайн. 
 
+Откройте "https://nbviewer.jupyter.org/"
 
+Вставьте там ссылку на блокнот, (например, "https://github.com/dm-fedorov/python_basic/blob/master/about_functions.ipynb")
+и Вы получите "https://nbviewer.jupyter.org/github.com/dm-fedorov/python_basic/blob/master/about_functions.ipynb"
+
+Если вид некоторых отображаемых там блокнотов внешне отличается от того, который появляется в Github, то добавьте "?flush_cache=true" в конец URL-адреса онлайнового nbviewer для вызова повторной визуализации.
