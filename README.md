@@ -103,3 +103,11 @@
 <ul>
  	<li> <a href="https://youtu.be/oFE1IAzAOtM?list=PLsFgCA3RuGOCgfD0evyDcJf27G3VpWumX&amp;t=26">Разработка приложения с помощью модуля tkinter</a></li>
 </ul>
+
+### Литература:
+
+1. Федоров, Д. Ю. Программирование на языке высокого уровня Python : учеб. пособие для прикладного бакалавриата / Д. Ю. Федоров.  — 2-е изд., перераб. и доп. — М. : Издательство Юрайт, 2019. — 161 с. — (Серия : Бакалавр. Прикладной курс). [ссылка](https://biblio-online.ru/book/programmirovanie-na-yazyke-vysokogo-urovnya-python-437489?ref_from=94433)
+
+
+
+
