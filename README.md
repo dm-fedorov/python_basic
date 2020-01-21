@@ -108,6 +108,16 @@
 
 1. Федоров, Д. Ю. Программирование на языке высокого уровня Python : учеб. пособие для прикладного бакалавриата / Д. Ю. Федоров.  — 2-е изд., перераб. и доп. — М. : Издательство Юрайт, 2019. — 161 с. — (Серия : Бакалавр. Прикладной курс). [ссылка](https://biblio-online.ru/book/programmirovanie-na-yazyke-vysokogo-urovnya-python-437489?ref_from=94433)
 
+2. [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/contents.html)
+
+3. [Видео курс от MailRu "Прикладной Python" (осень 2018)](https://www.youtube.com/playlist?list=PLrCZzMib1e9qM62lMXC90SiFy7-1-kAPJ)
+
+4. [Видео от CS "Программирование на Python, осень 2018"](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
+
+5. [Python Lesson Exercises](http://fsr.github.io/python-lessons/)
+
+6. Пишем telegram-бота на python с помощью библиотеки telebot [часть 1](https://habr.com/ru/post/448310/), [часть 2](https://habr.com/ru/post/462905/)
+
 ***
 
 PS. Если во время просмотра файлов *.ipynb Вы получаете сообщение "Sorry, something went wrong. Reload?", то попробуйте открыть блокнот, который Вам нужен, используя nbviewer онлайн. 
