@@ -1,3 +1,5 @@
+Трогательная история моего знакомства с программированием: [Почему я выбрал язык Python](https://vk.com/@init_python-pochemu-ya-vybral-yazyk-python)
+
 <strong>Урок 1</strong>
 
 <a href="https://dfedorov.spb.ru/python3/python_marafon_01.pdf">Презентация к уроку 1</a>
