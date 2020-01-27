@@ -1,4 +1,4 @@
-Трогательная история моего знакомства с программированием: [Почему я выбрал язык Python](https://vk.com/@init_python-pochemu-ya-vybral-yazyk-python)
+[Трогательная история моего знакомства с программированием на Python](https://vk.com/@init_python-pochemu-ya-vybral-yazyk-python)
 
 <strong>Урок 1</strong>
 
